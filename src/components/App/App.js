@@ -39,7 +39,7 @@ class App extends Component {
               <Route path={"/countries"} exact render={() =>
                   <Countries countries={this.state.countries}/>}/>
 
-              <Route path={"/books/categories"} exact render={() =>
+              <Route path={"/categories"} exact render={() =>
                   <Categories categories={this.state.categories}/>}/>
 
               <Route path={"/books/add"} exact render={() =>
