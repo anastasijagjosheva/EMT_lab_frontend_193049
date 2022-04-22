@@ -29,7 +29,7 @@ class Books extends React.Component {
                         <table className={"table table-striped"}>
                             <thead>
                             <tr>
-                                <th scope={"col"}>Name</th>
+                                <th scope={"col"}>Trajce</th>
                                 <th scope={"col"}>Category</th>
                                 <th scope={"col"}>Author</th>
                                 <th scope={"col"}>Available copies</th>
